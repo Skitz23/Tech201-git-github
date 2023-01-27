@@ -2,4 +2,4 @@
 Tech201-git-github
 ## Heading2
 ### Heading 3
-~ lets create our markdown file
+~ lets create our Markdown file
