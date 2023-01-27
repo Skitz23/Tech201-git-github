@@ -1,7 +1,12 @@
+![](img.png)
+Created a file on my local workstation
 
-# Tech201-git-github
-Tech201-git-github
-## Heading2
-### Heading 3
-~ lets create our Markdown file
-- This line is added on localhost testing
+Went on github and made a repo in github and copied the https link
+
+Cloned the repo onto my local workstation using 'git clone'
+
+Changes the README.md file using nano 
+
+Then made the changes on local worksation
+
+cdPushed the changes onto github
